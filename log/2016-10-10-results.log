@@ -1,0 +1,5 @@
+{"level":"info","message":"Starting application","timestamp":"1:40:25 PM"}
+{"level":"info","message":"Creating HTTP server on port: 5000","timestamp":"1:40:25 PM"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"1:40:25 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"1:42:39 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"1:42:39 PM"}
