@@ -1,0 +1,14 @@
+{"level":"info","message":"Starting application","timestamp":"7:57:40 PM"}
+{"level":"info","message":"Creating HTTP server on port: 5000","timestamp":"7:57:40 PM"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"7:57:40 PM"}
+{"level":"info","message":"Starting application","timestamp":"7:58:51 PM"}
+{"level":"info","message":"Creating HTTP server on port: 5000","timestamp":"7:58:51 PM"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"7:58:51 PM"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"7:58:51 PM"}
+{"level":"info","message":"Starting application","timestamp":"8:00:11 PM"}
+{"level":"info","message":"Creating HTTP server on port: 5000","timestamp":"8:00:11 PM"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"8:00:11 PM"}
+{"level":"info","message":"Starting application","timestamp":"8:02:19 PM"}
+{"level":"info","message":"Creating HTTP server on port: 5000","timestamp":"8:02:19 PM"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"8:02:19 PM"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"8:02:19 PM"}

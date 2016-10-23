@@ -2,12 +2,6 @@ var path = require ('path')
 rootpath=path.normalize(__dirname +'/..'),
 env=process.env.NODE_ENV || 'development';
 
-//to load the models
-var models = glob.sync(config.root + '/app/models/*.js');
-  models.forEach(function (model) {
-    require(model);
-  });
-
 //Add controller code to load the controllers//
 
 var config={
@@ -31,3 +25,4 @@ test: {
 }
 
     module.exports=config[env];
+    

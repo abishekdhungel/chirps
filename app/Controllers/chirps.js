@@ -33,14 +33,15 @@ module.exports = function (app) {
             logger.log("Deletes a chirps", "verbose");
             res.status(200).json({ msg: "Delete a chirps" });
         });
+
     router.route('/chirps/userchirps/:id')
-        .GET(function (req, res) {
+        .get(function (req, res) {
             logger.log("Get a user's chirps", "verbose");
             res.status(200).json({ msg: "Get a user's chirps" });
         })
 
     router.route('/chirps/like/:id')
-            .PUT(function (req, res) {
+            .put(function (req, res) {
                 logger.log("Like a chirp", "verbose");
                 res.status(200).json({ msg: "Like a chirp" });
             })
