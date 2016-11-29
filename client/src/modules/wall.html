@@ -1,0 +1,22 @@
+<template>
+	<h1>Wall</h1>
+	<button click.trigger="logout()">Logout</button>
+
+	 <div class="panel panel-default">
+      <div class="panel-body">
+        <div show.bind="wallMessage.length > 0" innerhtml.bind="wallMessage"></div>
+        <ul class="list-group">
+          <li class="list-group-item" repeat.for="chirp of chirps.chirpArray">
+            <div class="media-left" innerhtml='${chirp.chirpAuthor.email'></div>
+            <div class="media-body">
+              <div class="col-lg-12">
+                <p>${chirp.chirp} <span show.bind="chirp.reChirp">[RC]</span></p>
+              </div>
+              <div class="col-lg-12">
+                <span class="smallFont">${chirp.dateSubmitted}</span>
+                <span click.trigger='like($index)' class="glyphicon glyphicon-thumbs-up"></span> ${chirp.likes}
+                <span click.trigger='reChirp(chirp)' class="glyphicon glyphicon-retweet"></span>
+              </div>
+            </div>          </li>        </ul>      </div>    </div>
+
+</template>

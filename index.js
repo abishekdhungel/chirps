@@ -1,4 +1,4 @@
-//index.js file requires code to bootstrap the application
+//index.js file contains the bare minimmum code to bootstrap the application
 var express=require('express')
 config=require('./config/config'),
 logger = require('./config/logger')

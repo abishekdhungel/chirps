@@ -1,0 +1,212 @@
+{"level":"info","message":"Starting application","timestamp":"2:02:13 PM"}
+{"level":"info","message":"Creating HTTP server on port: 5000","timestamp":"2:02:13 PM"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"2:02:13 PM"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2:02:13 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"2:02:17 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"2:02:17 PM"}
+{"level":"verbose","message":"Get User undefined","timestamp":"2:02:17 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"2:13:05 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"2:13:05 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"2:13:18 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"2:13:18 PM"}
+{"level":"verbose","message":"Get User undefined","timestamp":"2:13:18 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"2:13:44 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"2:13:44 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"2:14:45 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"2:14:45 PM"}
+{"level":"verbose","message":"Get User undefined","timestamp":"2:14:45 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"2:15:03 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"2:15:03 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"2:15:15 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"2:15:15 PM"}
+{"level":"verbose","message":"Get User undefined","timestamp":"2:15:15 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"2:17:54 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"2:17:55 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"2:18:48 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"2:18:48 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"2:21:04 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"2:21:04 PM"}
+{"level":"verbose","message":"Get User undefined","timestamp":"2:21:04 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"2:22:01 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"2:22:01 PM"}
+{"level":"verbose","message":"Get User undefined","timestamp":"2:22:01 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"2:24:49 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"2:24:49 PM"}
+{"level":"verbose","message":"Create User","timestamp":"2:24:49 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"2:25:07 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"2:25:07 PM"}
+{"level":"verbose","message":"Create User","timestamp":"2:25:07 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"2:25:50 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"2:25:50 PM"}
+{"level":"verbose","message":"Create User","timestamp":"2:25:50 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"2:28:29 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"2:28:29 PM"}
+{"level":"verbose","message":"Get User undefined","timestamp":"2:28:29 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"2:29:13 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"2:29:13 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"2:30:00 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"2:30:00 PM"}
+{"level":"verbose","message":"Get User undefined","timestamp":"2:30:01 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"2:30:24 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"2:30:24 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"2:30:40 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"2:30:40 PM"}
+{"level":"verbose","message":"Delete a User  580e990a57f5693688954d84","timestamp":"2:30:40 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"2:30:52 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"2:30:52 PM"}
+{"level":"verbose","message":"Delete a User  580e990a57f5693688954d84","timestamp":"2:30:52 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"2:30:53 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"2:30:53 PM"}
+{"level":"verbose","message":"Delete a User  580e990a57f5693688954d84","timestamp":"2:30:53 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"2:30:54 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"2:30:54 PM"}
+{"level":"verbose","message":"Delete a User  580e990a57f5693688954d84","timestamp":"2:30:54 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"2:31:17 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"2:31:17 PM"}
+{"level":"verbose","message":"Delete a User  580e990a57f5693688954d84","timestamp":"2:31:17 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"2:31:52 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"2:31:52 PM"}
+{"level":"verbose","message":"Delete a User  580e990a57f5693688954d84","timestamp":"2:31:52 PM"}
+{"level":"info","message":"Starting application","timestamp":"2:32:27 PM"}
+{"level":"info","message":"Creating HTTP server on port: 5000","timestamp":"2:32:27 PM"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"2:32:27 PM"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2:32:27 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"2:32:29 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"2:32:29 PM"}
+{"level":"verbose","message":"Delete a User  580e990a57f5693688954d84","timestamp":"2:32:29 PM"}
+{"level":"info","message":"Starting application","timestamp":"2:32:52 PM"}
+{"level":"info","message":"Creating HTTP server on port: 5000","timestamp":"2:32:52 PM"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"2:32:52 PM"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2:32:52 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"2:33:14 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"2:33:14 PM"}
+{"level":"verbose","message":"Delete a User  580e990a57f5693688954d84","timestamp":"2:33:14 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"2:34:44 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"2:34:44 PM"}
+{"level":"verbose","message":"Delete a User  580e990a57f5693688954d84","timestamp":"2:34:44 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"2:35:09 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"2:35:09 PM"}
+{"level":"verbose","message":"Delete a User  580e990a57f5693688954d84","timestamp":"2:35:09 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"2:35:57 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"2:35:57 PM"}
+{"level":"verbose","message":"Create User","timestamp":"2:35:57 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"2:37:17 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"2:37:17 PM"}
+{"level":"verbose","message":"Create User","timestamp":"2:37:17 PM"}
+{"level":"info","message":"Starting application","timestamp":"2:37:38 PM"}
+{"level":"info","message":"Creating HTTP server on port: 5000","timestamp":"2:37:38 PM"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"2:37:38 PM"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2:37:38 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"2:37:39 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"2:37:39 PM"}
+{"level":"verbose","message":"Create User","timestamp":"2:37:39 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"2:41:05 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"2:41:05 PM"}
+{"level":"verbose","message":"Get User undefined","timestamp":"2:41:05 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"2:57:02 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"2:57:02 PM"}
+{"level":"verbose","message":"Get User undefined","timestamp":"2:57:02 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"3:13:46 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"3:13:46 PM"}
+{"level":"verbose","message":"Get User undefined","timestamp":"3:13:46 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"3:22:02 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"3:22:02 PM"}
+{"level":"verbose","message":"Delete a User  580e990a57f5693688954d84","timestamp":"3:22:02 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"3:22:10 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"3:22:10 PM"}
+{"level":"verbose","message":"Get a User  580e990a57f5693688954d84","timestamp":"3:22:10 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"3:22:15 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"3:22:15 PM"}
+{"level":"verbose","message":"Get User undefined","timestamp":"3:22:15 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"3:23:25 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"3:23:25 PM"}
+{"level":"verbose","message":"Create User","timestamp":"3:23:25 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"3:23:52 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"3:23:52 PM"}
+{"level":"verbose","message":"Create User","timestamp":"3:23:52 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"3:24:18 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"3:24:18 PM"}
+{"level":"verbose","message":"Create User","timestamp":"3:24:18 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"3:24:30 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"3:24:30 PM"}
+{"level":"verbose","message":"Create User","timestamp":"3:24:30 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"3:24:34 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"3:24:34 PM"}
+{"level":"verbose","message":"Create User","timestamp":"3:24:34 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"3:24:58 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"3:24:58 PM"}
+{"level":"verbose","message":"Create User","timestamp":"3:24:58 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"3:25:07 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"3:25:07 PM"}
+{"level":"verbose","message":"Create User","timestamp":"3:25:07 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"3:25:37 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"3:25:37 PM"}
+{"level":"verbose","message":"Create User","timestamp":"3:25:37 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"3:25:41 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"3:25:41 PM"}
+{"level":"verbose","message":"Create User","timestamp":"3:25:41 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"3:25:55 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"3:25:55 PM"}
+{"level":"verbose","message":"Create User","timestamp":"3:25:55 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"3:26:11 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"3:26:11 PM"}
+{"level":"verbose","message":"Create User","timestamp":"3:26:11 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"3:27:08 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"3:27:08 PM"}
+{"level":"verbose","message":"Create User","timestamp":"3:27:08 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"3:27:30 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"3:27:30 PM"}
+{"level":"verbose","message":"Create User","timestamp":"3:27:30 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"3:29:37 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"3:29:37 PM"}
+{"level":"verbose","message":"Create User","timestamp":"3:29:37 PM"}
+{"level":"info","message":"Starting application","timestamp":"3:36:57 PM"}
+{"level":"info","message":"Creating HTTP server on port: 5000","timestamp":"3:36:57 PM"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"3:36:57 PM"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"3:36:57 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"3:37:05 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"3:37:05 PM"}
+{"level":"verbose","message":"Create User","timestamp":"3:37:05 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"3:39:42 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"3:39:42 PM"}
+{"level":"verbose","message":"Create User","timestamp":"3:39:42 PM"}
+{"level":"info","message":"Starting application","timestamp":"3:41:14 PM"}
+{"level":"info","message":"Creating HTTP server on port: 5000","timestamp":"3:41:14 PM"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"3:41:14 PM"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"3:41:14 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"3:41:18 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"3:41:18 PM"}
+{"level":"verbose","message":"Get User undefined","timestamp":"3:41:18 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"3:42:20 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"3:42:20 PM"}
+{"level":"verbose","message":"Create User","timestamp":"3:42:20 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"3:43:55 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"3:43:55 PM"}
+{"level":"verbose","message":"Create User","timestamp":"3:43:55 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"3:44:26 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"3:44:26 PM"}
+{"level":"verbose","message":"Create User","timestamp":"3:44:26 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"3:50:48 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"3:50:48 PM"}
+{"level":"verbose","message":"Get User undefined","timestamp":"3:50:48 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"3:51:17 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"3:51:17 PM"}
+{"level":"verbose","message":"Create User","timestamp":"3:51:17 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"3:56:44 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"3:56:44 PM"}
+{"level":"verbose","message":"Get User undefined","timestamp":"3:56:44 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"3:57:05 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"3:57:06 PM"}
+{"level":"verbose","message":"Create User","timestamp":"3:57:06 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"3:57:12 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"3:57:12 PM"}
+{"level":"verbose","message":"Create User","timestamp":"3:57:12 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"3:57:52 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"3:57:52 PM"}
+{"level":"verbose","message":"Create User","timestamp":"3:57:52 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"4:03:31 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"4:03:31 PM"}
+{"level":"verbose","message":"Create User","timestamp":"4:03:31 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"4:04:45 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"4:04:45 PM"}
+{"level":"verbose","message":"Create User","timestamp":"4:04:45 PM"}

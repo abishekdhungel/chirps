@@ -1,0 +1,36 @@
+<template>
+<form id="RegistrationForm" >
+     
+        <div class="form-group">
+            <label for="exampleInputFirstName">First name</label>
+            <input type="text" class="form-control" id="exampleInputFirstName" 
+		aria-describedby="firstNameHelp" placeholder="Enter first name"
+            	value.bind="firstName">
+        </div>
+
+ <div class="form-group">
+            <label for="exampleInputLastName">Last name</label>
+            <input type="text" class="form-control" id="exampleInputLastName" 
+		aria-describedby="lastNameHelp" placeholder="Enter last name"
+            	value.bind="lasttName">
+        </div>
+
+           <div class="form-group">
+            <label for="exampleInputEmail1">Email address</label>
+            <input type="email" class="form-control" id="exampleInputEmail1" 
+            aria-describedby="emailHelp" placeholder="Enter email"
+            	value.bind="email">
+        </div>
+
+          <div class="form-group">
+            <label for="exampleInputPassword3">Password</label>
+            <input type="password" class="form-control" id="exampleInputPassword3" 
+            aria-describedby="passwordHelp" placeholder="Enter Password"
+            	value.bind="password">
+        </div>
+
+
+
+	<button click.delegate="save()" class="btn btn-primary">Submit</button>
+</form>
+</template>

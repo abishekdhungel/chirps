@@ -1,0 +1,60 @@
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"7:03:39 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"7:03:39 PM"}
+{"level":"verbose","message":"Update a User undefined","timestamp":"7:03:39 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"7:04:26 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"7:04:26 PM"}
+{"level":"verbose","message":"Get User undefined","timestamp":"7:04:26 PM"}
+{"level":"info","message":"Starting application","timestamp":"7:10:04 PM"}
+{"level":"info","message":"Creating HTTP server on port: 5000","timestamp":"7:10:04 PM"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"7:10:04 PM"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"7:10:04 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"7:10:23 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"7:10:23 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"7:10:28 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"7:10:28 PM"}
+{"level":"verbose","message":"Get User undefined","timestamp":"7:10:28 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"7:10:38 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"7:10:38 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"7:10:43 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"7:10:43 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"7:10:46 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"7:10:46 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"7:11:04 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"7:11:04 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"7:11:19 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"7:11:19 PM"}
+{"level":"verbose","message":"Get User undefined","timestamp":"7:11:19 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"7:11:24 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"7:11:24 PM"}
+{"level":"verbose","message":"Get User undefined","timestamp":"7:11:24 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"7:11:27 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"7:11:27 PM"}
+{"level":"verbose","message":"Get User undefined","timestamp":"7:11:27 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"7:12:21 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"7:12:21 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"7:12:27 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"7:12:27 PM"}
+{"level":"verbose","message":"Get User undefined","timestamp":"7:12:27 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"7:12:33 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"7:12:33 PM"}
+{"level":"verbose","message":"Get a User chirps","timestamp":"7:12:33 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"7:12:39 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"7:12:39 PM"}
+{"level":"verbose","message":"Get User undefined","timestamp":"7:12:39 PM"}
+{"level":"info","message":"Starting application","timestamp":"7:13:40 PM"}
+{"level":"info","message":"Creating HTTP server on port: 5000","timestamp":"7:13:40 PM"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"7:13:40 PM"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"7:13:40 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"7:13:45 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"7:13:45 PM"}
+{"level":"verbose","message":"Get userchirps undefined","timestamp":"7:13:45 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"7:13:48 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"7:13:48 PM"}
+{"level":"verbose","message":"Get userchirps undefined","timestamp":"7:13:48 PM"}
+{"level":"info","message":"Starting application","timestamp":"7:15:10 PM"}
+{"level":"info","message":"Creating HTTP server on port: 5000","timestamp":"7:15:10 PM"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"7:15:10 PM"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"7:15:10 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"7:15:11 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"7:15:11 PM"}
+{"level":"verbose","message":"Get all chirps undefined","timestamp":"7:15:11 PM"}

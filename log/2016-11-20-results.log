@@ -1,0 +1,123 @@
+{"level":"info","message":"Starting application","timestamp":"7:42:52 AM"}
+{"level":"info","message":"Creating HTTP server on port: 5000","timestamp":"7:42:52 AM"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"7:42:52 AM"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"7:42:52 AM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"7:44:14 AM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"7:44:14 AM"}
+{"level":"verbose","message":"Get User undefined","timestamp":"7:44:14 AM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"7:44:39 AM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"7:44:40 AM"}
+{"level":"verbose","message":"Update a User 5816af53b694a9374c46dee9","timestamp":"7:44:40 AM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"7:44:50 AM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"7:44:50 AM"}
+{"level":"verbose","message":"Update a User 5816af53b694a9374c46dee9","timestamp":"7:44:50 AM"}
+{"level":"info","message":"Starting application","timestamp":"8:18:31 AM"}
+{"level":"info","message":"Creating HTTP server on port: 5000","timestamp":"8:18:31 AM"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"8:18:31 AM"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"8:18:31 AM"}
+{"level":"info","message":"Starting application","timestamp":"8:24:00 AM"}
+{"level":"info","message":"Creating HTTP server on port: 5000","timestamp":"8:24:00 AM"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"8:24:00 AM"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"8:24:00 AM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"8:26:27 AM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"8:26:27 AM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"8:26:59 AM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"8:26:59 AM"}
+{"level":"verbose","message":"Get User undefined","timestamp":"8:26:59 AM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"8:27:23 AM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"8:27:23 AM"}
+{"level":"verbose","message":"Get User undefined","timestamp":"8:27:23 AM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"8:27:54 AM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"8:27:54 AM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"8:33:45 AM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"8:33:45 AM"}
+{"level":"verbose","message":"Get User undefined","timestamp":"8:33:45 AM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"8:34:16 AM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"8:34:16 AM"}
+{"level":"verbose","message":"Get User undefined","timestamp":"8:34:16 AM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"8:34:56 AM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"8:34:56 AM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"8:35:06 AM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"8:35:06 AM"}
+{"level":"verbose","message":"Get User undefined","timestamp":"8:35:06 AM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"8:35:37 AM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"8:35:37 AM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"8:39:17 AM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"8:39:17 AM"}
+{"level":"verbose","message":"Get User undefined","timestamp":"8:39:17 AM"}
+{"level":"info","message":"Starting application","timestamp":"8:40:50 AM"}
+{"level":"info","message":"Creating HTTP server on port: 5000","timestamp":"8:40:50 AM"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"8:40:50 AM"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"8:40:50 AM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"8:40:57 AM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"8:40:57 AM"}
+{"level":"info","message":"Starting application","timestamp":"8:59:02 AM"}
+{"level":"info","message":"Creating HTTP server on port: 5000","timestamp":"8:59:02 AM"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"8:59:02 AM"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"8:59:02 AM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"9:05:46 AM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"9:05:46 AM"}
+{"level":"info","message":"Starting application","timestamp":"9:12:23 AM"}
+{"level":"info","message":"Creating HTTP server on port: 5000","timestamp":"9:12:23 AM"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"9:12:23 AM"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"9:12:23 AM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"9:12:34 AM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"9:12:34 AM"}
+{"level":"info","message":"Starting application","timestamp":"9:13:45 AM"}
+{"level":"info","message":"Creating HTTP server on port: 5000","timestamp":"9:13:45 AM"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"9:13:46 AM"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"9:13:46 AM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"9:13:51 AM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"9:13:51 AM"}
+{"level":"info","message":"Starting application","timestamp":"9:29:35 AM"}
+{"level":"info","message":"Creating HTTP server on port: 5000","timestamp":"9:29:35 AM"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"9:29:35 AM"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"9:29:36 AM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"9:29:40 AM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"9:29:40 AM"}
+{"level":"info","message":"Starting application","timestamp":"9:47:37 AM"}
+{"level":"info","message":"Creating HTTP server on port: 5000","timestamp":"9:47:37 AM"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"9:47:37 AM"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"9:47:37 AM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"9:47:42 AM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"9:47:42 AM"}
+{"level":"info","message":"Starting application","timestamp":"12:55:45 PM"}
+{"level":"info","message":"Creating HTTP server on port: 5000","timestamp":"12:55:45 PM"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"12:55:45 PM"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"12:55:45 PM"}
+{"level":"info","message":"Starting application","timestamp":"1:12:20 PM"}
+{"level":"info","message":"Creating HTTP server on port: 5000","timestamp":"1:12:20 PM"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"1:12:20 PM"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"1:12:20 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"1:12:26 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"1:12:26 PM"}
+{"level":"info","message":"Starting application","timestamp":"1:14:19 PM"}
+{"level":"info","message":"Creating HTTP server on port: 5000","timestamp":"1:14:19 PM"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"1:14:19 PM"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"1:14:19 PM"}
+{"level":"info","message":"Starting application","timestamp":"1:14:56 PM"}
+{"level":"info","message":"Creating HTTP server on port: 5000","timestamp":"1:14:56 PM"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"1:14:56 PM"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"1:14:56 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"1:15:00 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"1:15:00 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"1:17:28 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"1:17:28 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"1:18:10 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"1:18:10 PM"}
+{"level":"verbose","message":"Update a User 5816ac2eb694a9374c46dee8","timestamp":"1:18:10 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"1:20:16 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"1:20:16 PM"}
+{"level":"verbose","message":"Create User","timestamp":"1:20:16 PM"}
+{"level":"info","message":"Starting application","timestamp":"1:28:57 PM"}
+{"level":"info","message":"Creating HTTP server on port: 5000","timestamp":"1:28:57 PM"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"1:28:57 PM"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"1:28:58 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"1:29:03 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"1:29:03 PM"}
+{"level":"info","message":"Starting application","timestamp":"1:32:56 PM"}
+{"level":"info","message":"Creating HTTP server on port: 5000","timestamp":"1:32:56 PM"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"1:32:56 PM"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"1:32:56 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"1:33:05 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"1:33:05 PM"}

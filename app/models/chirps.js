@@ -3,8 +3,8 @@ var Schema = Mongoose.Schema;
 
 var ChirpSchema = new Schema({
 
-chirp: { type: String },
-chirpAuthor: { type: Schema.Types.ObjectId},
+chirp: { type: String, required:true },
+chirpAuthor: { type: Schema.Types.ObjectId, ref: 'User'},
 dateCreated: {type:Date, default:Date.now},
 likes: {type: Number, default:0},
 reChirp: {type: Boolean, default:false}

@@ -1,9 +1,10 @@
 var express = require('express'),
-morgan = require('morgan')
-logger = require ('./logger');
+morgan = require('morgan'),
+logger = require ('./logger'),
 mongoose = require('mongoose'), //db connection
 bodyParser = require('body-parser'),
-glob = require('glob');
+glob = require('glob'),
+cors = require('cors');
 
 
 
@@ -43,21 +44,8 @@ if(process.env.NODE_ENV !=='test'){ //if statement enclosing the logging middlew
         logger.log('Request from ' + req.connection.remoteAddress, 'info');
         next();
     });
-    //Add this route to express.js above the 404 route. All this does is create an array of users and thenreturn the array for a request to /api/users
 }
 
-
-// var users = [	{name: 'John', email: 'woo@hoo.com'},
-// 		{name: 'Betty', email: 'loo@woo.com'},
-// 		{name: 'Hal', email: 'boo@woo.com'}
-// ];
-
-// app.get('/api/users', function (req, res) {
-//     res.status(200).json(users);
-//   });
-
-  //Load the models
-  //Since controller files have references to the models, this code must be inserted above the code that loads the controllers.
   var models = glob.sync(config.root + '/app/models/*.js');
   models.forEach(function (model) {
     require(model);
@@ -73,6 +61,7 @@ controllers.forEach(function (controller) {
 
 // //Creates a route for static files
 app.use(express.static(config.root + '/public'));
+app.use(cors());
 
 app.use(function(req, res) {
     res.type('text/plain');
@@ -80,12 +69,18 @@ app.use(function(req, res) {
     res.send('404 Not Found');
 });
 
-app.use(function(err,req,res,next){
-    console.error(err.stack);
-    res.type('text/plain');
-    res.status(500);
-    res.send('500 Server Error');
-});
+app.use(function (err, req, res, next) {
+    console.log(err)
+    if (process.env.NODE_ENV !== 'test') logger.log(err.stack,'error');
+    res.type('text/plan');
+    if(err.status){
+
+      res.status(err.status).send(err.message);
+    } else {
+      res.status(500).send('500 Sever Error');
+    }
+  });
+
 
 logger.log("Starting application");
-}
+};

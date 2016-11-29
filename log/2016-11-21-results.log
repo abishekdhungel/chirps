@@ -1,0 +1,111 @@
+{"level":"info","message":"Starting application","timestamp":"4:26:48 PM"}
+{"level":"info","message":"Creating HTTP server on port: 5000","timestamp":"4:26:48 PM"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"4:26:48 PM"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"4:26:48 PM"}
+{"level":"info","message":"Starting application","timestamp":"4:27:55 PM"}
+{"level":"info","message":"Creating HTTP server on port: 5000","timestamp":"4:27:55 PM"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"4:27:55 PM"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"4:27:55 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"4:27:59 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"4:28:00 PM"}
+{"level":"info","message":"Starting application","timestamp":"4:29:52 PM"}
+{"level":"info","message":"Creating HTTP server on port: 5000","timestamp":"4:29:52 PM"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"4:29:52 PM"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"4:29:52 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"4:29:57 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"4:29:57 PM"}
+{"level":"info","message":"Starting application","timestamp":"4:31:55 PM"}
+{"level":"info","message":"Creating HTTP server on port: 5000","timestamp":"4:31:55 PM"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"4:31:55 PM"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"4:31:55 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"4:31:58 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"4:31:58 PM"}
+{"level":"info","message":"Starting application","timestamp":"4:34:52 PM"}
+{"level":"info","message":"Creating HTTP server on port: 5000","timestamp":"4:34:52 PM"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"4:34:52 PM"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"4:34:52 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"4:34:56 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"4:34:57 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"4:35:07 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"4:35:07 PM"}
+{"level":"info","message":"Starting application","timestamp":"4:36:38 PM"}
+{"level":"info","message":"Creating HTTP server on port: 5000","timestamp":"4:36:38 PM"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"4:36:38 PM"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"4:36:38 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"4:37:31 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"4:37:31 PM"}
+{"level":"info","message":"Starting application","timestamp":"4:38:45 PM"}
+{"level":"info","message":"Creating HTTP server on port: 5000","timestamp":"4:38:45 PM"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"4:38:45 PM"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"4:38:45 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"4:38:51 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"4:38:51 PM"}
+{"level":"info","message":"Starting application","timestamp":"4:39:45 PM"}
+{"level":"info","message":"Creating HTTP server on port: 5000","timestamp":"4:39:45 PM"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"4:39:45 PM"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"4:39:45 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"4:39:49 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"4:39:49 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"4:40:54 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"4:40:54 PM"}
+{"level":"verbose","message":"Get User undefined","timestamp":"4:40:54 PM"}
+{"level":"info","message":"Starting application","timestamp":"4:43:00 PM"}
+{"level":"info","message":"Creating HTTP server on port: 5000","timestamp":"4:43:00 PM"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"4:43:00 PM"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"4:43:00 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"4:43:14 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"4:43:14 PM"}
+{"level":"error","message":"TypeError: req.status is not a function\n    at c:\\Users\\abishek\\Desktop\\web development\\codes\\chirps\\app\\Controllers\\users.js:22:64\n    at Layer.handle [as handle_request] (c:\\Users\\abishek\\Desktop\\web development\\codes\\chirps\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (c:\\Users\\abishek\\Desktop\\web development\\codes\\chirps\\node_modules\\express\\lib\\router\\route.js:131:13)\n    at Route.dispatch (c:\\Users\\abishek\\Desktop\\web development\\codes\\chirps\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (c:\\Users\\abishek\\Desktop\\web development\\codes\\chirps\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at c:\\Users\\abishek\\Desktop\\web development\\codes\\chirps\\node_modules\\express\\lib\\router\\index.js:277:22\n    at Function.process_params (c:\\Users\\abishek\\Desktop\\web development\\codes\\chirps\\node_modules\\express\\lib\\router\\index.js:330:12)\n    at next (c:\\Users\\abishek\\Desktop\\web development\\codes\\chirps\\node_modules\\express\\lib\\router\\index.js:271:10)\n    at Function.handle (c:\\Users\\abishek\\Desktop\\web development\\codes\\chirps\\node_modules\\express\\lib\\router\\index.js:176:3)\n    at router (c:\\Users\\abishek\\Desktop\\web development\\codes\\chirps\\node_modules\\express\\lib\\router\\index.js:46:12)\n    at Layer.handle [as handle_request] (c:\\Users\\abishek\\Desktop\\web development\\codes\\chirps\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (c:\\Users\\abishek\\Desktop\\web development\\codes\\chirps\\node_modules\\express\\lib\\router\\index.js:312:13)\n    at c:\\Users\\abishek\\Desktop\\web development\\codes\\chirps\\node_modules\\express\\lib\\router\\index.js:280:7\n    at Function.process_params (c:\\Users\\abishek\\Desktop\\web development\\codes\\chirps\\node_modules\\express\\lib\\router\\index.js:330:12)\n    at next (c:\\Users\\abishek\\Desktop\\web development\\codes\\chirps\\node_modules\\express\\lib\\router\\index.js:271:10)\n    at c:\\Users\\abishek\\Desktop\\web development\\codes\\chirps\\node_modules\\express\\lib\\router\\index.js:618:15","timestamp":"4:43:14 PM"}
+{"level":"info","message":"Starting application","timestamp":"4:44:03 PM"}
+{"level":"info","message":"Creating HTTP server on port: 5000","timestamp":"4:44:03 PM"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"4:44:03 PM"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"4:44:03 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"4:44:08 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"4:44:08 PM"}
+{"level":"info","message":"Starting application","timestamp":"4:46:27 PM"}
+{"level":"info","message":"Creating HTTP server on port: 5000","timestamp":"4:46:27 PM"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"4:46:27 PM"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"4:46:27 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"4:46:40 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"4:46:40 PM"}
+{"level":"error","message":"ReferenceError: Password is not defined\n    at Strategy._verify (c:\\Users\\abishek\\Desktop\\web development\\codes\\chirps\\Config\\passport.js:14:13)\n    at Strategy.authenticate (c:\\Users\\abishek\\Desktop\\web development\\codes\\chirps\\node_modules\\passport-local\\lib\\strategy.js:90:12)\n    at attempt (c:\\Users\\abishek\\Desktop\\web development\\codes\\chirps\\node_modules\\passport\\lib\\middleware\\authenticate.js:348:16)\n    at authenticate (c:\\Users\\abishek\\Desktop\\web development\\codes\\chirps\\node_modules\\passport\\lib\\middleware\\authenticate.js:349:7)\n    at Layer.handle [as handle_request] (c:\\Users\\abishek\\Desktop\\web development\\codes\\chirps\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (c:\\Users\\abishek\\Desktop\\web development\\codes\\chirps\\node_modules\\express\\lib\\router\\route.js:131:13)\n    at Route.dispatch (c:\\Users\\abishek\\Desktop\\web development\\codes\\chirps\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (c:\\Users\\abishek\\Desktop\\web development\\codes\\chirps\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at c:\\Users\\abishek\\Desktop\\web development\\codes\\chirps\\node_modules\\express\\lib\\router\\index.js:277:22\n    at Function.process_params (c:\\Users\\abishek\\Desktop\\web development\\codes\\chirps\\node_modules\\express\\lib\\router\\index.js:330:12)\n    at next (c:\\Users\\abishek\\Desktop\\web development\\codes\\chirps\\node_modules\\express\\lib\\router\\index.js:271:10)\n    at Function.handle (c:\\Users\\abishek\\Desktop\\web development\\codes\\chirps\\node_modules\\express\\lib\\router\\index.js:176:3)\n    at router (c:\\Users\\abishek\\Desktop\\web development\\codes\\chirps\\node_modules\\express\\lib\\router\\index.js:46:12)\n    at Layer.handle [as handle_request] (c:\\Users\\abishek\\Desktop\\web development\\codes\\chirps\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (c:\\Users\\abishek\\Desktop\\web development\\codes\\chirps\\node_modules\\express\\lib\\router\\index.js:312:13)\n    at c:\\Users\\abishek\\Desktop\\web development\\codes\\chirps\\node_modules\\express\\lib\\router\\index.js:280:7","timestamp":"4:46:40 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"4:47:13 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"4:47:13 PM"}
+{"level":"info","message":"Starting application","timestamp":"4:48:21 PM"}
+{"level":"info","message":"Creating HTTP server on port: 5000","timestamp":"4:48:21 PM"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"4:48:21 PM"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"4:48:21 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"4:48:25 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"4:48:25 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"4:48:43 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"4:48:43 PM"}
+{"level":"error","message":"ReferenceError: Password is not defined\n    at c:\\Users\\abishek\\Desktop\\web development\\codes\\chirps\\Config\\passport.js:20:31\n    at process._tickCallback (internal/process/next_tick.js:103:7)","timestamp":"4:48:43 PM"}
+{"level":"info","message":"Starting application","timestamp":"4:49:23 PM"}
+{"level":"info","message":"Creating HTTP server on port: 5000","timestamp":"4:49:23 PM"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"4:49:23 PM"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"4:49:23 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"4:49:26 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"4:49:26 PM"}
+{"level":"error","message":"TypeError: user.comparePassword is not a function\n    at c:\\Users\\abishek\\Desktop\\web development\\codes\\chirps\\Config\\passport.js:20:15\n    at process._tickCallback (internal/process/next_tick.js:103:7)","timestamp":"4:49:26 PM"}
+{"level":"info","message":"Starting application","timestamp":"4:50:44 PM"}
+{"level":"info","message":"Creating HTTP server on port: 5000","timestamp":"4:50:44 PM"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"4:50:44 PM"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"4:50:45 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"4:50:48 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"4:50:48 PM"}
+{"level":"error","message":"TypeError: user.comparePassword is not a function\n    at c:\\Users\\abishek\\Desktop\\web development\\codes\\chirps\\Config\\passport.js:18:15\n    at process._tickCallback (internal/process/next_tick.js:103:7)","timestamp":"4:50:48 PM"}
+{"level":"info","message":"Starting application","timestamp":"4:51:53 PM"}
+{"level":"info","message":"Creating HTTP server on port: 5000","timestamp":"4:51:53 PM"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"4:51:53 PM"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"4:51:53 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"4:51:56 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"4:51:56 PM"}
+{"level":"error","message":"undefined","timestamp":"4:51:56 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"4:52:44 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"4:52:44 PM"}
+{"level":"verbose","message":"Get User undefined","timestamp":"4:52:44 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"4:53:35 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"4:53:35 PM"}
+{"level":"verbose","message":"Update a User 5816ac2eb694a9374c46dee8","timestamp":"4:53:35 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"4:53:56 PM"}
+{"level":"info","message":"Request from ::ffff:127.0.0.1","timestamp":"4:53:56 PM"}
