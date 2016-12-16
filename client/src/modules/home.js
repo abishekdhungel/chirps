@@ -2,23 +2,26 @@
 import {inject} from 'aurelia-framework';
 import {Router} from 'aurelia-router';
 import {AuthService} from 'aurelia-auth';
+import {Users} from '../resources/data/users';
 
 
-@inject(Router, AuthService)
+
+@inject(Router, AuthService, Users)
 export class Home {
-  constructor(router, auth) {
-	this.router = router;
-  this.auth = auth;
-          this.message = 'Chirps';
-          this.showLogon = true;
+  constructor(router, auth, users) {
+    this.router = router;
+    this.auth = auth;
+    this.users = users;
+    this.message = 'Chirps';
+    this.showLogon = true;
   }
 
   login() {
     return this.auth.login(this.email, this.password)
       .then(response => {
-	sessionStorage.setItem("user", JSON.stringify(response.user));
-	this.loginError = "";
-	this.router.navigate('wall');
+        sessionStorage.setItem("user", JSON.stringify(response.user));
+        this.loginError = "";
+        this.router.navigate('wall');
       })
       .catch(error => {
         console.log(error);
@@ -26,25 +29,25 @@ export class Home {
       });
   };
 
-//save a user
+  //save a user
   async save() {
     var user = {
-      firstName: this.firstName,
-      lastName: this.lastName,
+      fname: this.firstName,
+      lname: this.lastName,
       email: this.email,
       screenName: this.screenName,
-      password: this.password
+      Password: this.password
     }
     let serverResponse = await this.users.save(user);
-    if(!serverResponse.error){
-       this.registerError = "";
+    if (!serverResponse.error) {
+      this.registerError = "";
       this.showLogon = true;
     } else {
       this.registerError = "There was a problem registering the user."
     }
- };
+  };
 
-  showRegister(){
+  showRegister() {
     this.showLogon = !this.showLogon;
   }
 

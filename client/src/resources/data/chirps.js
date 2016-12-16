@@ -11,7 +11,7 @@ export class Chirps {
 
 //Retrive users chirps
 async getUsersChirps(id) {
-        var url = this.data.CHIRP_SERVICE + '/userChirps/' + id;
+        var url = this.data.USER_SERVICE + '/followedChirps/' + id;
         try {
             let serverResponse = await this.data.get(url);
             if (!serverResponse.error) {
@@ -24,11 +24,13 @@ async getUsersChirps(id) {
         }
  }
 
+ 
 
+//Create a Chirp
  async saveChirp(chirp){ 
        try {
             	let serverResponse = await this.data.post(chirp, this.data.CHIRP_SERVICE);
-	if(!serverResponse.error && !chirp.reChirp) {
+	if(!serverResponse.error) {
 		this.chirpArray.unshift(serverResponse);
 	}
 	return serverResponse;
@@ -37,5 +39,17 @@ async getUsersChirps(id) {
             	return undefined;
         }
  }
+ //like a chirp
+  async like(id){
+      var chirp = {};
+      try {
+    	let serverResponse = await this.data.put(chirp, this.data.CHIRP_SERVICE + '/like/' + id);
+	return serverResponse;
+        } catch (error) {
+          console.log(error);
+          return undefined;
+      }
+    }
+
 }
 

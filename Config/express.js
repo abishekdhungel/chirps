@@ -19,6 +19,9 @@ cors = require('cors');
 module.exports = function (app, config) {
     app.use(morgan('dev'));
     
+// //Creates a route for static files
+
+app.use(cors());
     
     app.use(function (req, res, next) {
       logger.log('Request from ' + req.connection.remoteAddress, 'info');
@@ -46,6 +49,8 @@ if(process.env.NODE_ENV !=='test'){ //if statement enclosing the logging middlew
     });
 }
 
+app.use(express.static(config.root + '/public'));
+
   var models = glob.sync(config.root + '/app/models/*.js');
   models.forEach(function (model) {
     require(model);
@@ -57,11 +62,6 @@ var controllers = glob.sync(config.root + '/app/Controllers/*.js');
 controllers.forEach(function (controller) {
     require(controller)(app, config);
 });
-
-
-// //Creates a route for static files
-app.use(express.static(config.root + '/public'));
-app.use(cors());
 
 app.use(function(req, res) {
     res.type('text/plain');

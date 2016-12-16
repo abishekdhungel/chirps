@@ -1,5 +1,32 @@
+import {inject} from 'aurelia-framework';
+import {DataServices} from './data-services';
+
+@inject(DataServices)
 export class Users{
-/*
+    
+	constructor(data) {
+        		this.data = data;
+    	}
+
+setUser (user){
+    this.selectedUser=user;
+}
+
+
+//get user based on screen name
+async getPersonScreenName(name) {
+        if(name){
+            try {
+                let serverResponse = await this.data.get(this.data.USER_SERVICE + "/screenName/" + name);
+                return serverResponse;
+            } catch (error) {
+                console.log(error);
+                return undefined;
+            }
+}
+}
+
+//Save a user
  async save(user){
         if(user){
             try{
@@ -11,5 +38,19 @@ export class Users{
             }
         }
  }
- */
+//Follow a user
+   async followUser(userId, followId){
+         if(userId && followId){
+            var obj = {_id: followId};
+            try{
+                let serverResponse = await this.data.put(obj, this.data.USER_SERVICE + '/follow/' + userId);
+                return serverResponse;
+         } catch (error) {
+                console.log(error);
+                return undefined;
+            }
+        }
+    }
+
+ 
 }

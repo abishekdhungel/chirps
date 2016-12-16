@@ -47,7 +47,7 @@ put(content, url) {
 			console.log(e);
 		                 return  {error: true, code: e.statusCode, message: e.statusText};
 	                 });
-}
+} 
 
 post(content, url) {
 	return this.http.createRequest(url)
